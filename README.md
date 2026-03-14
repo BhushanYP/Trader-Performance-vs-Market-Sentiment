@@ -96,7 +96,7 @@ Infrequent or inconsistent traders should:
 ## How to Run
 
 1. Clone the repository
-git clone https://github.com/yourusername/hyperliquid-sentiment-analysis.git
+git clone https://github.com/BhushanYP/Trader-Performance-vs-Market-Sentiment.git
 
 
 2. Install dependencies
